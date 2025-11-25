@@ -1,0 +1,38 @@
+#hero{
+    font-family: 'Poppins', sans-serif;
+    color: #F3F4F6;
+    margin: 10vh auto;
+    width: clamp(80px,65vw,1200px);
+    font-size: clamp(28px,3rem,60px);
+    line-height: 1.6;
+    font-weight: 700;
+}
+#start-btn{
+    background:linear-gradient(to right bottom, white 40%, #7162de 95%);
+    border-radius: 20px;
+    border:none;
+    padding: 25px 30px ;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    color: #4d3adaff;
+    display: block;
+    margin: -50px auto auto;
+    cursor: pointer;
+    transition-duration: 0.2s;
+    &:hover{
+        box-shadow: 0px 0px 5px white;
+    }
+    &:active{
+        background:linear-gradient(to right bottom, #cdcacf 40%, #4c419a 95%);
+    }
+}
+#cards{
+    display: flex;
+    margin: 80px auto;
+    margin-bottom: 100px;
+    width: clamp(300px, 80vw, 1200px);
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    
+}
