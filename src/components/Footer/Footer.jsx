@@ -1,7 +1,7 @@
 import './Footer.css'
-import facebook from './../assets/facebook.png'
-import google from './../assets/google.png'
-import apple from './../assets/apple.png'
+import facebook from '../../assets/facebook.png'
+import google from '../../assets/google.png'
+import apple from '../../assets/apple.png'
 
 
 

@@ -1,6 +1,6 @@
 import './Header.css'
-import Logo from './Logo'
-import Button from './Button'
+import Logo from '../Logo'
+import Button from '../Button/Button'
 import { Link } from 'react-router-dom'
 
 
