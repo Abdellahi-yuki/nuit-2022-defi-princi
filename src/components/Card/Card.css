@@ -13,8 +13,10 @@
     gap:20px ;
 
     #icon{
-        border: 1px solid black;
         height: 66px;
+        img{
+            height: 100%;
+        }
         
     }
 

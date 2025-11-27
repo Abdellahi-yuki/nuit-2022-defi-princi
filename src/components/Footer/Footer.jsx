@@ -22,7 +22,7 @@ function Footer(){
                     <p>/pixelCraft</p>
                 </div>
                 <div id='rights'>
-                    <p id='Cyear'>&copy; 2025</p><p id='rights-text'> — Projet réalisé pour la Nuit de l’Info avec SIS Association</p>
+                    <p id='rights-text'><span id='Cyear'>&copy; 2025</span> — Projet réalisé pour la Nuit de l’Info avec SIS Association</p>
                 </div>
             </div>
         </footer>

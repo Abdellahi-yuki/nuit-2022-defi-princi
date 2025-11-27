@@ -26,6 +26,7 @@
     #last-line{
         display: flex;
         justify-content: space-around;
+        flex-wrap: wrap;
         #socials{
             display: flex;
             align-items: center;
@@ -53,6 +54,7 @@
             
             #Cyear{
                 color:#4D3ADA ;
+                display: inline;
             }
         }
     }
